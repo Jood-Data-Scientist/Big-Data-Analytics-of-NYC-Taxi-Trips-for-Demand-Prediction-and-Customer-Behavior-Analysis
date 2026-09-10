@@ -1,10 +1,5 @@
 # Big Data Analytics of NYC Taxi Trips
 
-**DS5411 — Big Data Mining | Umm Al-Qura University**
-Supervised by A/Prof. Olfat Mirza
-
-## Team
-Asayel Sloom Alharbi · Reem Ghazi Alosaimi · Wed Fawaz Alshehri · Jood Mohammed Algarni · Shatha Talal Alsulami
 
 ## Overview
 An end-to-end Big Data pipeline analyzing NYC Yellow Taxi trip data to predict fares and uncover urban demand patterns, supporting smart transportation decisions.
