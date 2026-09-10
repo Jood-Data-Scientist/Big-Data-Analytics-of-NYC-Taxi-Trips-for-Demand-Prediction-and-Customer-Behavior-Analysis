@@ -104,8 +104,7 @@ Revenue: Saturday is the highest-revenue day (over $2M).
 
 
 
-Interactive dashboard: Power BI Dashboard
-
+Interactive dashboard:Power BI Dashboard
 
 
 Resources
